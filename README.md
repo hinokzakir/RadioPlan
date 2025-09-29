@@ -2,7 +2,7 @@
 
 A Java application with GUI for radio planning.
 
-Created as a assignment to a course @ Umeå Univeristy and submitted in 2024.
+Created as a assignment to a course @ Umeå University and submitted in 2024.
 
 ![Placeholder Image](/images/screenshot.png)
 
